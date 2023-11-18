@@ -1,116 +1,171 @@
 {
-  "memberMaster": [{
-  "first_name": "Theresita",
-  "last_name": "Stollmeyer",
-  "age": 26,
-  "email": "tstollmeyer0@cbslocal.com",
-  "country": "United States",
-  "postal_code": "19146",
-  "gender": "Female",
-  "contact_number": "267-903-2242",
-  "address": "01 Morningstar Pass",
-  "birthdate": "8/19/1956"
-}, {
-  "first_name": "Ossie",
-  "last_name": "Hosten",
-  "age": 29,
-  "email": "ohosten1@disqus.com",
-  "country": "China",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "852-880-0127",
-  "address": "72481 Village Green Drive",
-  "birthdate": "5/25/1975"
-}, {
-  "first_name": "Aldrich",
-  "last_name": "Pendrick",
-  "age": 37,
-  "email": "apendrick2@bing.com",
-  "country": "China",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "114-594-0617",
-  "address": "06573 2nd Trail",
-  "birthdate": "9/25/1950"
-}, {
-  "first_name": "Amalle",
-  "last_name": "Hambling",
-  "age": 69,
-  "email": "ahambling3@sphinn.com",
-  "country": "Tanzania",
-  "postal_code": null,
-  "gender": "Male",
-  "contact_number": "858-973-8689",
-  "address": "31534 Reindahl Pass",
-  "birthdate": "9/15/1957"
-}, {
-  "first_name": "Jenine",
-  "last_name": "Remnant",
-  "age": 48,
-  "email": "jremnant4@phoca.cz",
-  "country": "Japan",
-  "postal_code": "799-3115",
-  "gender": "Female",
-  "contact_number": "116-134-6590",
-  "address": "28103 Judy Place",
-  "birthdate": "6/30/1999"
-}, {
-  "first_name": "Silvano",
-  "last_name": "Kendall",
-  "age": 60,
-  "email": "skendall5@cbslocal.com",
-  "country": "Georgia",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "320-406-6732",
-  "address": "1 Pond Lane",
-  "birthdate": "12/7/1973"
-}, {
-  "first_name": "Opalina",
-  "last_name": "Brach",
-  "age": 39,
-  "email": "obrach6@reverbnation.com",
-  "country": "Greece",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "908-979-3021",
-  "address": "18 Lukken Crossing",
-  "birthdate": "3/21/1992"
-}, {
-  "first_name": "Jamaal",
-  "last_name": "Chaston",
-  "age": 54,
-  "email": "jchaston7@instagram.com",
-  "country": "Indonesia",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "833-372-8053",
-  "address": "8 Basil Crossing",
-  "birthdate": "1/20/1960"
-}, {
-  "first_name": "Willi",
-  "last_name": "Fadell",
-  "age": 70,
-  "email": "wfadell8@irs.gov",
-  "country": "China",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "855-857-2193",
-  "address": "0 Tennessee Hill",
-  "birthdate": "8/24/1960"
-}, {
-  "first_name": "Ody",
-  "last_name": "Bartozzi",
-  "age": 25,
-  "email": "obartozzi9@storify.com",
-  "country": "China",
-  "postal_code": null,
-  "gender": "Female",
-  "contact_number": "560-908-5180",
-  "address": "8803 Almo Crossing",
-  "birthdate": "3/7/1968"
-}],
-  "profile": {
-    "name": "fmontallana"
-  }
+  "memberMaster": [
+    {
+      "first_name": "Theresita",
+      "last_name": "Stollmeyer",
+      "age": 26,
+      "email": "tstollmeyer0@cbslocal.com",
+      "country": "United States",
+      "postal_code": "19146",
+      "gender": "Female",
+      "contact_number": "267-903-2242",
+      "address": "01 Morningstar Pass",
+      "birthdate": "8/19/1956"
+    },
+    {
+      "first_name": "Ossie",
+      "last_name": "Hosten",
+      "age": 29,
+      "email": "ohosten1@disqus.com",
+      "country": "China",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "852-880-0127",
+      "address": "72481 Village Green Drive",
+      "birthdate": "5/25/1975"
+    },
+    {
+      "first_name": "Aldrich",
+      "last_name": "Pendrick",
+      "age": 37,
+      "email": "apendrick2@bing.com",
+      "country": "China",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "114-594-0617",
+      "address": "06573 2nd Trail",
+      "birthdate": "9/25/1950"
+    },
+    {
+      "first_name": "Amalle",
+      "last_name": "Hambling",
+      "age": 69,
+      "email": "ahambling3@sphinn.com",
+      "country": "Tanzania",
+      "postal_code": null,
+      "gender": "Male",
+      "contact_number": "858-973-8689",
+      "address": "31534 Reindahl Pass",
+      "birthdate": "9/15/1957"
+    },
+    {
+      "first_name": "Jenine",
+      "last_name": "Remnant",
+      "age": 48,
+      "email": "jremnant4@phoca.cz",
+      "country": "Japan",
+      "postal_code": "799-3115",
+      "gender": "Female",
+      "contact_number": "116-134-6590",
+      "address": "28103 Judy Place",
+      "birthdate": "6/30/1999"
+    },
+    {
+      "first_name": "Silvano",
+      "last_name": "Kendall",
+      "age": 60,
+      "email": "skendall5@cbslocal.com",
+      "country": "Georgia",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "320-406-6732",
+      "address": "1 Pond Lane",
+      "birthdate": "12/7/1973"
+    },
+    {
+      "first_name": "Opalina",
+      "last_name": "Brach",
+      "age": 39,
+      "email": "obrach6@reverbnation.com",
+      "country": "Greece",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "908-979-3021",
+      "address": "18 Lukken Crossing",
+      "birthdate": "3/21/1992"
+    },
+    {
+      "first_name": "Jamaal",
+      "last_name": "Chaston",
+      "age": 54,
+      "email": "jchaston7@instagram.com",
+      "country": "Indonesia",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "833-372-8053",
+      "address": "8 Basil Crossing",
+      "birthdate": "1/20/1960"
+    },
+    {
+      "first_name": "Willi",
+      "last_name": "Fadell",
+      "age": 70,
+      "email": "wfadell8@irs.gov",
+      "country": "China",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "855-857-2193",
+      "address": "0 Tennessee Hill",
+      "birthdate": "8/24/1960"
+    },
+    {
+      "first_name": "Ody",
+      "last_name": "Bartozzi",
+      "age": 25,
+      "email": "obartozzi9@storify.com",
+      "country": "China",
+      "postal_code": null,
+      "gender": "Female",
+      "contact_number": "560-908-5180",
+      "address": "8803 Almo Crossing",
+      "birthdate": "3/7/1968"
+    }
+  ],
+  "profile": [
+    {
+      "name": "fmontallana"
+    }
+  ],
+  "chairmanships": [
+    {
+      "id": 1,
+      "chairmanship": "Chemical Engineer"
+    },
+    {
+      "id": 2,
+      "chairmanship": "VP Product Management"
+    },
+    {
+      "id": 3,
+      "chairmanship": "Cost Accountant"
+    },
+    {
+      "id": 4,
+      "chairmanship": "Account Coordinator"
+    },
+    {
+      "id": 5,
+      "chairmanship": "Technical Writer"
+    },
+    {
+      "id": 6,
+      "chairmanship": "Programmer Analyst II"
+    },
+    {
+      "id": 7,
+      "chairmanship": "Project Manager"
+    },
+    {
+      "id": 8,
+      "chairmanship": "VP Accounting"
+    },
+    {
+      "id": 9,
+      "chairmanship": "Account Coordinator"
+    },
+    {
+      "id": 10,
+      "chairmanship": "Teacher"
+    }
+  ]
 }
