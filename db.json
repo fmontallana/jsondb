@@ -129,77 +129,211 @@
   "chairmanships": [
     {
       "id": 1,
-      "chairmanship": "Chemical Engineer"
+      "chairmanship": "Barangay Peace and Order Committee Chairperson"
     },
     {
       "id": 2,
-      "chairmanship": "VP Product Management"
+      "chairmanship": "Barangay Health and Sanitation Committee Chairperson"
     },
     {
       "id": 3,
-      "chairmanship": "Cost Accountant"
+      "chairmanship": "Barangay Committee on Education Chairperson"
     },
     {
       "id": 4,
-      "chairmanship": "Account Coordinator"
+      "chairmanship": "Barangay Committee on Environment and Natural Resources Chairperson"
     },
     {
       "id": 5,
-      "chairmanship": "Technical Writer"
+      "chairmanship": "Barangay Committee on Women and Family Chairperson"
     },
     {
       "id": 6,
-      "chairmanship": "Programmer Analyst II"
+      "chairmanship": "Barangay Committee on Youth and Sports Development Chairperson"
     },
     {
       "id": 7,
-      "chairmanship": "Project Manager"
+      "chairmanship": "Barangay Committee on Livelihood and Economic Development Chairperson"
     },
     {
       "id": 8,
-      "chairmanship": "VP Accounting"
+      "chairmanship": "Barangay Committee on Infrastructure and Public Works Chairperson"
     },
     {
       "id": 9,
-      "chairmanship": "Account Coordinator"
+      "chairmanship": "Barangay Committee on Disaster Risk Reduction and Management Chairperson"
     },
     {
       "id": 10,
-      "chairmanship": "Teacher"
+      "chairmanship": "Barangay Committee on Culture and the Arts Chairperson"
     }
   ],
   "positions": [
     {
       "id": 1,
-      "position_title": "Captain"
+      "position": "Barangay Captain"
     },
     {
       "id": 2,
-      "position_title": "Council I"
+      "position": "Barangay Kagawad (Councilor)"
     },
     {
       "id": 3,
-      "position_title": "Council II"
+      "position": "Barangay Treasurer"
     },
     {
       "id": 4,
-      "position_title": "Council III"
+      "position": "Barangay Secretary"
     },
     {
       "id": 5,
-      "position_title": "Council IV"
+      "position": "Barangay SK Chairperson (Youth Council Chairperson)"
     },
     {
       "id": 6,
-      "position_title": "Council V"
+      "position": "Barangay Health Worker"
     },
     {
       "id": 7,
-      "position_title": "Council VI"
+      "position": "Barangay Tanod (Community Volunteer)"
     },
     {
       "id": 8,
-      "position_title": "Council VII"
+      "position": "Barangay Day Care Worker"
+    },
+    {
+      "id": 9,
+      "position": "Barangay Livelihood Coordinator"
+    },
+    {
+      "id": 10,
+      "position": "Barangay Environmental Officer"
+    }
+  ],
+  "household_no": [
+    {
+      "id": 1,
+      "household_no": "HH-001"
+    },
+    {
+      "id": 2,
+      "household_no": "HH-002"
+    },
+    {
+      "id": 3,
+      "household_no": "HH-003"
+    },
+    {
+      "id": 4,
+      "household_no": "HH-004"
+    },
+    {
+      "id": 5,
+      "household_no": "HH-005"
+    },
+    {
+      "id": 6,
+      "household_no": "HH-006"
+    },
+    {
+      "id": 7,
+      "household_no": "HH-007"
+    },
+    {
+      "id": 8,
+      "household_no": "HH-008"
+    },
+    {
+      "id": 9,
+      "household_no": "HH-009"
+    },
+    {
+      "id": 10,
+      "household_no": "HH-010"
+    }
+  ],
+  "purok": [
+    {
+      "id": 1,
+      "purok": "Purok 1"
+    },
+    {
+      "id": 2,
+      "purok": "Purok 2"
+    },
+    {
+      "id": 3,
+      "purok": "Purok 3"
+    },
+    {
+      "id": 4,
+      "purok": "Purok 4"
+    },
+    {
+      "id": 5,
+      "purok": "Purok 5"
+    },
+    {
+      "id": 6,
+      "purok": "Purok 6"
+    },
+    {
+      "id": 7,
+      "purok": "Purok 7"
+    },
+    {
+      "id": 8,
+      "purok": "Purok 8"
+    },
+    {
+      "id": 9,
+      "purok": "Purok 9"
+    },
+    {
+      "id": 10,
+      "purok": "Purok 10"
+    }
+  ],
+  "precinct_no": [
+    {
+      "id": 1,
+      "precinct_no": "Precinct-001"
+    },
+    {
+      "id": 2,
+      "precinct_no": "Precinct-002"
+    },
+    {
+      "id": 3,
+      "precinct_no": "Precinct-003"
+    },
+    {
+      "id": 4,
+      "precinct_no": "Precinct-004"
+    },
+    {
+      "id": 5,
+      "precinct_no": "Precinct-005"
+    },
+    {
+      "id": 6,
+      "precinct_no": "Precinct-006"
+    },
+    {
+      "id": 7,
+      "precinct_no": "Precinct-007"
+    },
+    {
+      "id": 8,
+      "precinct_no": "Precinct-008"
+    },
+    {
+      "id": 9,
+      "precinct_no": "Precinct-009"
+    },
+    {
+      "id": 10,
+      "precinct_no": "Precinct-010"
     }
   ]
 }
