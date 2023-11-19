@@ -167,5 +167,39 @@
       "id": 10,
       "chairmanship": "Teacher"
     }
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "position_title": "Captain"
+    },
+    {
+      "id": 2,
+      "position_title": "Council I"
+    },
+    {
+      "id": 3,
+      "position_title": "Council II"
+    },
+    {
+      "id": 4,
+      "position_title": "Council III"
+    },
+    {
+      "id": 5,
+      "position_title": "Council IV"
+    },
+    {
+      "id": 6,
+      "position_title": "Council V"
+    },
+    {
+      "id": 7,
+      "position_title": "Council VI"
+    },
+    {
+      "id": 8,
+      "position_title": "Council VII"
+    }
   ]
 }
