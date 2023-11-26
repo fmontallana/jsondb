@@ -2,211 +2,211 @@
   "chairmanships": [
     {
       "id": 1,
-      "chairmanship": "Barangay Peace and Order Committee Chairperson"
+      "description": "Barangay Peace and Order Committee Chairperson"
     },
     {
       "id": 2,
-      "chairmanship": "Barangay Health and Sanitation Committee Chairperson"
+      "description": "Barangay Health and Sanitation Committee Chairperson"
     },
     {
       "id": 3,
-      "chairmanship": "Barangay Committee on Education Chairperson"
+      "description": "Barangay Committee on Education Chairperson"
     },
     {
       "id": 4,
-      "chairmanship": "Barangay Committee on Environment and Natural Resources Chairperson"
+      "description": "Barangay Committee on Environment and Natural Resources Chairperson"
     },
     {
       "id": 5,
-      "chairmanship": "Barangay Committee on Women and Family Chairperson"
+      "description": "Barangay Committee on Women and Family Chairperson"
     },
     {
       "id": 6,
-      "chairmanship": "Barangay Committee on Youth and Sports Development Chairperson"
+      "description": "Barangay Committee on Youth and Sports Development Chairperson"
     },
     {
       "id": 7,
-      "chairmanship": "Barangay Committee on Livelihood and Economic Development Chairperson"
+      "description": "Barangay Committee on Livelihood and Economic Development Chairperson"
     },
     {
       "id": 8,
-      "chairmanship": "Barangay Committee on Infrastructure and Public Works Chairperson"
+      "description": "Barangay Committee on Infrastructure and Public Works Chairperson"
     },
     {
       "id": 9,
-      "chairmanship": "Barangay Committee on Disaster Risk Reduction and Management Chairperson"
+      "description": "Barangay Committee on Disaster Risk Reduction and Management Chairperson"
     },
     {
       "id": 10,
-      "chairmanship": "Barangay Committee on Culture and the Arts Chairperson"
+      "description": "Barangay Committee on Culture and the Arts Chairperson"
     }
   ],
   "positions": [
     {
       "id": 1,
-      "position": "Barangay Captain"
+      "description": "Barangay Captain"
     },
     {
       "id": 2,
-      "position": "Barangay Kagawad (Councilor)"
+      "description": "Barangay Kagawad (Councilor)"
     },
     {
       "id": 3,
-      "position": "Barangay Treasurer"
+      "description": "Barangay Treasurer"
     },
     {
       "id": 4,
-      "position": "Barangay Secretary"
+      "description": "Barangay Secretary"
     },
     {
       "id": 5,
-      "position": "Barangay SK Chairperson (Youth Council Chairperson)"
+      "description": "Barangay SK Chairperson (Youth Council Chairperson)"
     },
     {
       "id": 6,
-      "position": "Barangay Health Worker"
+      "description": "Barangay Health Worker"
     },
     {
       "id": 7,
-      "position": "Barangay Tanod (Community Volunteer)"
+      "description": "Barangay Tanod (Community Volunteer)"
     },
     {
       "id": 8,
-      "position": "Barangay Day Care Worker"
+      "description": "Barangay Day Care Worker"
     },
     {
       "id": 9,
-      "position": "Barangay Livelihood Coordinator"
+      "description": "Barangay Livelihood Coordinator"
     },
     {
       "id": 10,
-      "position": "Barangay Environmental Officer"
+      "description": "Barangay Environmental Officer"
     }
   ],
   "household_no": [
     {
       "id": 1,
-      "household_no": "HH-001"
+      "description": "HH-001"
     },
     {
       "id": 2,
-      "household_no": "HH-002"
+      "description": "HH-002"
     },
     {
       "id": 3,
-      "household_no": "HH-003"
+      "description": "HH-003"
     },
     {
       "id": 4,
-      "household_no": "HH-004"
+      "description": "HH-004"
     },
     {
       "id": 5,
-      "household_no": "HH-005"
+      "description": "HH-005"
     },
     {
       "id": 6,
-      "household_no": "HH-006"
+      "description": "HH-006"
     },
     {
       "id": 7,
-      "household_no": "HH-007"
+      "description": "HH-007"
     },
     {
       "id": 8,
-      "household_no": "HH-008"
+      "description": "HH-008"
     },
     {
       "id": 9,
-      "household_no": "HH-009"
+      "description": "HH-009"
     },
     {
       "id": 10,
-      "household_no": "HH-010"
+      "description": "HH-010"
     }
   ],
   "purok": [
     {
       "id": 1,
-      "purok": "Purok 1"
+      "description": "Purok 1"
     },
     {
       "id": 2,
-      "purok": "Purok 2"
+      "description": "Purok 2"
     },
     {
       "id": 3,
-      "purok": "Purok 3"
+      "description": "Purok 3"
     },
     {
       "id": 4,
-      "purok": "Purok 4"
+      "description": "Purok 4"
     },
     {
       "id": 5,
-      "purok": "Purok 5"
+      "description": "Purok 5"
     },
     {
       "id": 6,
-      "purok": "Purok 6"
+      "description": "Purok 6"
     },
     {
       "id": 7,
-      "purok": "Purok 7"
+      "description": "Purok 7"
     },
     {
       "id": 8,
-      "purok": "Purok 8"
+      "description": "Purok 8"
     },
     {
       "id": 9,
-      "purok": "Purok 9"
+      "description": "Purok 9"
     },
     {
       "id": 10,
-      "purok": "Purok 10"
+      "description": "Purok 10"
     }
   ],
   "precinct_no": [
     {
       "id": 1,
-      "precinct_no": "Precinct-001"
+      "description": "Precinct-001"
     },
     {
       "id": 2,
-      "precinct_no": "Precinct-002"
+      "description": "Precinct-002"
     },
     {
       "id": 3,
-      "precinct_no": "Precinct-003"
+      "description": "Precinct-003"
     },
     {
       "id": 4,
-      "precinct_no": "Precinct-004"
+      "description": "Precinct-004"
     },
     {
       "id": 5,
-      "precinct_no": "Precinct-005"
+      "description": "Precinct-005"
     },
     {
       "id": 6,
-      "precinct_no": "Precinct-006"
+      "description": "Precinct-006"
     },
     {
       "id": 7,
-      "precinct_no": "Precinct-007"
+      "description": "Precinct-007"
     },
     {
       "id": 8,
-      "precinct_no": "Precinct-008"
+      "description": "Precinct-008"
     },
     {
       "id": 9,
-      "precinct_no": "Precinct-009"
+      "description": "Precinct-009"
     },
     {
       "id": 10,
-      "precinct_no": "Precinct-010"
+      "description": "Precinct-010"
     }
   ]
 }
